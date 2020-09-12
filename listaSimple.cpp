@@ -349,4 +349,4 @@ int main()
 
    cin.get();
    return 0;
-}
+creo que lo logre 
